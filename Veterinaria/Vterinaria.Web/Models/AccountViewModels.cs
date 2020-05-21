@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Vterinaria.Web.Models
+namespace Veterinaria.Web.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

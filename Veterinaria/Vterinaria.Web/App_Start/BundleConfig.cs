@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Vterinaria.Web
+namespace Veterinaria.Web
 {
     public class BundleConfig
     {
@@ -20,10 +20,14 @@ namespace Vterinaria.Web
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js"));
+                    "~/Scripts/assets/mail/jqBootstrapValidation.js",
+                    "~/Scripts/assets/mail/contact_me.js",
+                    "~/Scripts/js/scripts.js",
+                    "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/css/styles.css",
                       "~/Content/site.css"));
         }
     }

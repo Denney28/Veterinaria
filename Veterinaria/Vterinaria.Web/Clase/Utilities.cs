@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Vterinaria.Web.Models;
+using Veterinaria.Web.Models;
 
-namespace Vterinaria.Web.Clase
+namespace Veterinaria.Web.Clase
 {
     public class Utilities
     {

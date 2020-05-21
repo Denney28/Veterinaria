@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace Vterinaria.Web.Models
+namespace Veterinaria.Web.Models
 {
     public class Consult
     {

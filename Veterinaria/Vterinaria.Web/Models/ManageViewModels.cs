@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace Vterinaria.Web.Models
+namespace Veterinaria.Web.Models
 {
     public class IndexViewModel
     {

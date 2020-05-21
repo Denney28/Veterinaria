@@ -1,4 +1,4 @@
-namespace Vterinaria.Web.Migrations
+namespace Veterinaria.Web.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

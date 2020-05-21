@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Vterinaria.Web.Controllers
+namespace Veterinaria.Web.Controllers
 {
     public class PrincipalController : Controller
     {

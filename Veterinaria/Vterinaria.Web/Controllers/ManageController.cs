@@ -6,9 +6,10 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using Vterinaria.Web.Models;
+using Veterinaria.Web.Controllers;
+using Veterinaria.Web.Models;
 
-namespace Vterinaria.Web.Controllers
+namespace Veterinaria.Web.Controllers
 {
     [Authorize]
     public class ManageController : Controller

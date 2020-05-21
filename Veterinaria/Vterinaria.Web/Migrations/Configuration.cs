@@ -1,18 +1,18 @@
-namespace Vterinaria.Web.Migrations
+namespace Veterinaria.Web.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Vterinaria.Web.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Veterinaria.Web.Models.ApplicationDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(Vterinaria.Web.Models.ApplicationDbContext context)
+        protected override void Seed(Veterinaria.Web.Models.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

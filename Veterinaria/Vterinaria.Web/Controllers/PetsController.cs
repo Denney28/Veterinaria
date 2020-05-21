@@ -6,9 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using Vterinaria.Web.Models;
+using Veterinaria.Web.Models;
 
-namespace Vterinaria.Web.Controllers
+namespace Veterinaria.Web.Controllers
 {
     public class PetsController : Controller
     {

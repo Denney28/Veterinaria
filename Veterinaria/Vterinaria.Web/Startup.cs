@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(Vterinaria.Web.Startup))]
-namespace Vterinaria.Web
+[assembly: OwinStartupAttribute(typeof(Veterinaria.Web.Startup))]
+namespace Veterinaria.Web
 {
     public partial class Startup
     {

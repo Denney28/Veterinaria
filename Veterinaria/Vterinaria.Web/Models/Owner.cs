@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Web;
 
-namespace Vterinaria.Web.Models
+namespace Veterinaria.Web.Models
 {
     public class Owner
     {

@@ -204,13 +204,34 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\assets\img\avataaars.svg" />
+    <Content Include="Content\assets\img\favicon.ico" />
+    <Content Include="Content\assets\img\portfolio\cabin.png" />
+    <Content Include="Content\assets\img\portfolio\cake.png" />
+    <Content Include="Content\assets\img\portfolio\circus.png" />
+    <Content Include="Content\assets\img\portfolio\game.png" />
+    <Content Include="Content\assets\img\portfolio\safe.png" />
+    <Content Include="Content\assets\img\portfolio\submarine.png" />
+    <Content Include="Content\assets\mail\contact_me.js" />
+    <Content Include="Content\assets\mail\contact_me.php" />
+    <Content Include="Content\assets\mail\jqBootstrapValidation.js" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-reboot.css" />
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\styles.css" />
+    <Content Include="Content\img\Dueño.png" />
+    <Content Include="Content\img\Administrar.png" />
+    <Content Include="Content\img\Historial.png" />
+    <Content Include="Content\img\veterinarialogo.png" />
+    <Content Include="Content\img\logohus.png" />
+    <Content Include="Content\img\huella.png" />
+    <Content Include="Content\img\mascotas.png" />
+    <Content Include="Content\img\veterinaria01.png" />
     <Content Include="Content\img\img01.jpg" />
+    <Content Include="Content\js\scripts.js" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
