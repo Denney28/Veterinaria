@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinaria.Web", "Vterinaria.Web\Veterinaria.Web.csproj", "{869A4300-B398-40EE-A889-C1F1559FBF39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinaria.Coomon", "Veterinaria.Coomon\Veterinaria.Coomon.csproj", "{CC23A13A-09D4-4C30-B9DA-C3C0801D7DBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veterinaria.Common", "Veterinaria.Common\Veterinaria.Common.csproj", "{F4EFB6BF-DE16-41C6-B255-F86679B26EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{869A4300-B398-40EE-A889-C1F1559FBF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{869A4300-B398-40EE-A889-C1F1559FBF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{869A4300-B398-40EE-A889-C1F1559FBF39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC23A13A-09D4-4C30-B9DA-C3C0801D7DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC23A13A-09D4-4C30-B9DA-C3C0801D7DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC23A13A-09D4-4C30-B9DA-C3C0801D7DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC23A13A-09D4-4C30-B9DA-C3C0801D7DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EFB6BF-DE16-41C6-B255-F86679B26EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EFB6BF-DE16-41C6-B255-F86679B26EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EFB6BF-DE16-41C6-B255-F86679B26EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EFB6BF-DE16-41C6-B255-F86679B26EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
